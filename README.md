@@ -7,7 +7,7 @@ I’m **Isama Desmond**, a passionate and curious software engineer. I love buil
 
 ---
 
-### 💻 Projects I’m Working On
+### 💻 Personal Project I’m Working On
 - [PancakeShopSimulation](https://github.com/IsamaDes/PancakeShopSimulation) – Simulates pancake sales and serving strategies.
 
 ---
