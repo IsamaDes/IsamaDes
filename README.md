@@ -20,7 +20,6 @@ I’m **Isama Desmond**, a passionate and curious software engineer. I love buil
 
 ---
 
-### ⚡ Fun Fact
-I enjoy coding with coffee ☕ and sometimes building small games for fun.  
+  
 
 
