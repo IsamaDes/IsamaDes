@@ -12,6 +12,12 @@ I’m **Isama Desmond**, a passionate and curious software engineer. I love buil
 
 ---
 
+### 📖 Articles & Writing
+- [Apache Kafka: From Zero Knowledge to Hero](https://medium.com/@isamadesmond/apache-kafka-from-zero-knowledge-to-hero-09d1f3b642bd)  
+
+---
+
+
 ### 📊 GitHub Stats
 
 ![IsamaDes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsamaDes&show_icons=true&theme=radical)
